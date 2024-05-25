@@ -17,6 +17,11 @@
   {
     "title": "Here",
     "description": "여기다",
-    "url": "https://github.com/"
+    "url": "#"
+  },
+  {
+    "title": "There",
+    "description": "저기다",
+    "url": "#"
   }
 ]
